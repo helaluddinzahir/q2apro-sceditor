@@ -2,14 +2,14 @@
 
 /*
 	Plugin Name: SCEditor
-	Plugin URI: http://www.q2apro.com/plugins/sceditor
+	Plugin URI: https://www.question2answer.org/qa/36413/new-free-editor-plugin-sceditor
 	Plugin Description: Provides the SCEditor as WYSIWYG rich text editor for your question2answer forum.
 	Plugin Version: 1.3
 	Plugin Date: 2016-02-17
 	Plugin Author: q2apro.com
 	Plugin Author URI: http://www.q2apro.com/
 	Plugin Minimum Question2Answer Version: 1.5
-	Plugin Update Check URI: http://www.q2apro.com/pluginupdate?id=90
+	Plugin Update Check URI: 
 	
 	Licence: Copyright © q2apro.com - All rights reserved
 	
