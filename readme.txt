@@ -14,7 +14,7 @@
     - works on all tested mobiles
     - image upload feature - super easy and works also on mobiles
     - editor can parse xhtml and bbcode
-    - set of smileys available (emoticons)
+    - set of smileys availabbnle (emoticons)
     - RTL - support for right-to-left languages
     - and much more: 4 editor themes, self-defined buttons, custom text colors, editor is resizable, can auto-expand to text-height
     - available editor languages: ar, cn, de, el, en, es, et, fa, fr, hu, it, ja, lt, nb, nl, pl, pt, ru, sv, tr, tw, uk, vi
